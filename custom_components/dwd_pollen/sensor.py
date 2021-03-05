@@ -16,7 +16,7 @@ from homeassistant.components.sensor import PLATFORM_SCHEMA
 from homeassistant.const import (
     ATTR_ATTRIBUTION, CONF_NAME)
 from homeassistant.util import Throttle
-from homeassistant.components.rest.sensor import RestData
+from homeassistant.components.rest.data import RestData
 
 STAT_AVG = 'avg'
 
