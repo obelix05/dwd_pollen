@@ -5,5 +5,6 @@
   "dependencies": ["sensor"],
   "after_dependencies": ["rest"],
   "codeowners": [],
-  "requirements": ["voluptuous==0.12.1", "jsonpath==0.82"]
+  "requirements": ["voluptuous==0.12.1", "jsonpath==0.82"],
+  "version": "0.1.0"
 }
